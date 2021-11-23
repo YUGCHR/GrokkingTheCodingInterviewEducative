@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace PatternSlidingWindow
 {
-    public class SmallestSubarrayWithaGivenSum
+    public static class SmallestSubarrayWithaGivenSum
     {
-
-        public int FindSmallestSubarray()
+        // find smallest subarray with a given sum
+        public static int FindSmallestSubarray()
         {
             return 0;
         }
+
+
 
     }
 }
